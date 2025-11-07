@@ -1,0 +1,28 @@
+2025-11-07 10:51:59,783 - INFO - Speed: 110 Km/hr, RPM: 3500, Battery: 99.99%
+2025-11-07 10:52:00,284 - INFO - Speed: 114 Km/hr, RPM: 3037, Battery: 99.98%
+2025-11-07 10:52:00,784 - INFO - Speed: 103 Km/hr, RPM: 2992, Battery: 99.97%
+2025-11-07 10:52:01,285 - INFO - Speed: 107 Km/hr, RPM: 3301, Battery: 99.96%
+2025-11-07 10:52:01,786 - INFO - Speed: 94 Km/hr, RPM: 2483, Battery: 99.95%
+2025-11-07 10:52:02,287 - INFO - Speed: 94 Km/hr, RPM: 2841, Battery: 99.94%
+2025-11-07 10:52:02,787 - INFO - Speed: 100 Km/hr, RPM: 3280, Battery: 99.93%
+2025-11-07 10:52:03,288 - INFO - Speed: 107 Km/hr, RPM: 2956, Battery: 99.92%
+2025-11-07 10:52:03,789 - INFO - Speed: 103 Km/hr, RPM: 3270, Battery: 99.91%
+2025-11-07 10:52:04,289 - INFO - Speed: 99 Km/hr, RPM: 2869, Battery: 99.9%
+2025-11-07 10:52:06,551 - INFO - Speed: 106 Km/hr, RPM: 3523, Battery: 99.99%
+2025-11-07 10:52:07,052 - INFO - Speed: 107 Km/hr, RPM: 3156, Battery: 99.98%
+2025-11-07 10:52:07,553 - INFO - Speed: 114 Km/hr, RPM: 3515, Battery: 99.97%
+2025-11-07 10:52:08,053 - INFO - Speed: 119 Km/hr, RPM: 3186, Battery: 99.96%
+2025-11-07 10:52:08,554 - INFO - Speed: 126 Km/hr, RPM: 3439, Battery: 99.95%
+2025-11-07 10:52:08,554 - WARNING - 🛑 HIGH SPEED ALERT! Speed: 126 Km/hr (Threshold: 120.0)
+2025-11-07 10:52:09,055 - INFO - Speed: 131 Km/hr, RPM: 3685, Battery: 99.94%
+2025-11-07 10:52:09,055 - WARNING - 🛑 HIGH SPEED ALERT! Speed: 131 Km/hr (Threshold: 120.0)
+2025-11-07 10:52:09,556 - INFO - Speed: 132 Km/hr, RPM: 3744, Battery: 99.93%
+2025-11-07 10:52:09,556 - WARNING - 🛑 HIGH SPEED ALERT! Speed: 132 Km/hr (Threshold: 120.0)
+2025-11-07 10:52:10,057 - INFO - Speed: 133 Km/hr, RPM: 3677, Battery: 99.92%
+2025-11-07 10:52:10,057 - WARNING - 🛑 HIGH SPEED ALERT! Speed: 133 Km/hr (Threshold: 120.0)
+2025-11-07 10:52:10,558 - INFO - Speed: 137 Km/hr, RPM: 4215, Battery: 99.91%
+2025-11-07 10:52:10,558 - WARNING - 🛑 HIGH SPEED ALERT! Speed: 137 Km/hr (Threshold: 120.0)
+2025-11-07 10:52:10,558 - WARNING - ⚠️ HIGH RPM ALERT! RPM: 4215 (Threshold: 4000.0)
+2025-11-07 10:52:11,059 - INFO - Speed: 148 Km/hr, RPM: 4366, Battery: 99.9%
+2025-11-07 10:52:11,059 - WARNING - 🛑 HIGH SPEED ALERT! Speed: 148 Km/hr (Threshold: 120.0)
+2025-11-07 10:52:11,059 - WARNING - ⚠️ HIGH RPM ALERT! RPM: 4366 (Threshold: 4000.0)
